@@ -1,0 +1,4 @@
+import WIFI_PSK
+SSID = "TP-Link_Home"
+PSK = WIFI_PSK.PSK
+COUNTRY = "GB"
