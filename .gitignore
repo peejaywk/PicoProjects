@@ -8,6 +8,8 @@ __pycache__/
 !.vscode/extensions.json
 .picowgo
 
+WIFI_PSK.py
+
 # C extensions
 *.so
 
